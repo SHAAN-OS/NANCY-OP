@@ -7,7 +7,7 @@
 # [𝗘𝗩𝗜𝗟 𝗣𝗔𝗜𝗥𝗦](t.me/agoraswamy_professor)
 
 <p align="center">
-  <img src="https://telegra.ph/file/2870fbaa8bc8d2b41f37f.jpg">
+  <img src="https://te.legra.ph/file/24c0b1f7f170fa2db24ef.jpg">
 </p>
 
 
