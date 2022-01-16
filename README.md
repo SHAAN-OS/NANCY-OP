@@ -14,13 +14,13 @@
 
 ## 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄 💰
 
-[![𝙳𝙴𝙿𝙻𝙾𝚈](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/EVIL-PAIRS)
+[![𝙳𝙴𝙿𝙻𝙾𝚈](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHAAN-OS/NANCY-OP)
 
 # 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗢𝗙 𝗘𝗩𝗜𝗟 𝗣𝗔𝗜𝗥𝗦
 
    - 𝙳𝙴𝙿𝙻𝙾𝚈 𝚄𝙿𝚃𝙾 𝟹𝟶 𝙱𝙾𝚃𝚂 𝙰𝚃 𝙰 𝚂𝙰𝙼𝙴 𝚃𝙸𝙼𝙴
 
-   - 𝙼𝙰𝙳𝙴 𝙱𝚈 𝙺𝙰𝚁𝙽𝙰𝚃𝙰𝙺𝙰 𝙲𝙾𝚄𝙿𝙻𝙴𝚂 ( 𝙿𝙰𝙸𝚁𝚂 )
+   - MADE WITH LOVE AND SECURITY( NANCY )
 
    - REPLYRAID , RAID PLUGIN , HANDLER *
 
